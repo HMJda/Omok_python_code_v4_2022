@@ -3,7 +3,7 @@
 Created on Tue Apr 28 10:04:19 2020
 
 Maker : bychoi@deu.ac.kr 
-d
+
 @author: Com
 """
 

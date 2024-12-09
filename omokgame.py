@@ -12,7 +12,7 @@ from player import *
 #from iot6789_student import *
 from stone import *
 from iot12345_student import *
-#from iot6789_student import *
+from iot6789_student import *
 import time  # append by bychoi
 
 
